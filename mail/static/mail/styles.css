@@ -1,0 +1,20 @@
+textarea {
+    min-height: 400px;
+}
+
+.emails-read {
+    margin-top: 10px;
+    padding: 15px;
+    background-color: lightgray;
+    cursor: pointer;
+}
+
+.emails-unread {
+    margin-top: 10px;
+    padding: 15px;
+    cursor: pointer;
+}
+
+.email {
+    white-space: pre-wrap;
+}
